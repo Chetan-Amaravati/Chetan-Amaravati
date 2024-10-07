@@ -10,6 +10,7 @@
 - 📫 How to reach me **chetanamaravati07@gmail.com**
 
 - ⚡ Fun fact **I think Im Funny**
+- pronouns - he/him 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
