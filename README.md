@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetan-amaravati&label=Profile%20views&color=0e75b6&style=flat" alt="chetan-amaravati" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan-amaravati" alt="chetan-amaravati" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetan-amaravati" alt="chetan-amaravati" /></a> </p
 
-- 🌱 I’m currently learning **reactJs**
-
-- 📫 How to reach me **chetanamaravati07@gmail.com**
-
-- ⚡ Fun fact **I think Im Funny**
+- 📫 How to reach me **chetanamaravati07@gmail.com
 -  > pronouns - he/him 
 
 <h3 align="left">Connect with me:</h3>
