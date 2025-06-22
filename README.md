@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chetan Amaravati</h1>
 <h3 align="center">Aspiring AI & Data Science Engineer | Passionate about Machine Learning, Web Development & Blockchain</h3>
----
 
 🎓 **Final Year Engineering Student**  
 Currently pursuing **B.E. in Artificial Intelligence & Data Science** at **SDM Institute of Technology (SDMIT), Ujire**.  
