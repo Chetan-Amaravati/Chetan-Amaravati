@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chetan Amaravati</h1>
-<h3 align="center">Aspiring AI & Data Science Engineer | Passionate about Machine Learning, Web Development & Blockchain</h3>
+<h3 align="center">Aspiring AI & Data Science Engineer | Passionate about Machine Learning, Data Analyst , Data Science</h3>
 
 ---
 
 🎓 **Final Year Engineering Student**  
 Currently pursuing **B.E. in Artificial Intelligence & Data Science** at **SDM Institute of Technology (SDMIT), Ujire**.  
-Eager to apply my skills in real-world AI, ML, Web, and Blockchain projects.
+Eager to apply my skills in real-world AI, ML Projects.
 
 💡 I'm particularly interested in solving problems related to:  
 - AI/ML-powered systems  
